@@ -56,3 +56,8 @@
   background-color: #1a1a1a;
   color: white;
 }
+
+.box-atas{
+  border: white solid 1.5px;
+  border-radius: 10px;
+}
